@@ -1,0 +1,6 @@
+{
+    "name": "Build PR",
+    "description": "Build Pull Request.",
+    "categories": ["Continuous integration", "C#", ".NET"],
+    "labels": ["preview"]
+}
